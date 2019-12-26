@@ -1,2 +1,4 @@
 NO.REG	: 1820010113 
 Nama	: Luthfie Fauzan Anshary
+Jurusan	: IT
+ 
